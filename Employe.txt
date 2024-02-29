@@ -1,1 +1,4 @@
-system.out.println("git");
+public class Employee{
+private String cin;
+private String lastName;
+}
