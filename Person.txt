@@ -1,1 +1,5 @@
-system.out.println("Hello");
+Public class Person{
+Public String cin;
+Public int age;
+Public String lastName;
+}
